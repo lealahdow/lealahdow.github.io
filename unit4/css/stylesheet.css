@@ -108,7 +108,7 @@ p{
 	width: 160px;
 }
 
-a:link, a:visited {
+a.menu_button:link, a.menu_button:visited {
     display: block;
     font-family: 'Roboto Condensed', sans-serif;
 	font-size: 16pt;
@@ -119,10 +119,44 @@ a:link, a:visited {
     text-decoration: none;
 }
 
-a:hover, a:active {
+a.menu_button:hover, a.menu_button:active {
     background-color: #db9791;
 }
 
+.footer_content{
+	font-family: 'Playfair Display', serif;
+	font-size: 10pt;
+	font-weight: 400;
+	letter-spacing: 0px;
+	color: #58595b;
+	line-height: 2;
+	padding: 20px;
+}	
+
+hr.footer_hr{
+	width: 50px;
+	background-color: #a1a1a1;
+	height: 2px;
+	border: 0px;
+	margin: 30px, 0, 0, 0;
+	padding: 0;
+}
+
+footer{
+	border-top: 1px, solid, #58595b
+	padding: 20px;
+	margin: 20px;
+}
+
+a{	
+	font-family: 'Playfair Display', serif;
+	font-size: 10pt;
+	font-weight: 700;
+	letter-spacing: 0px;
+	color: #f8aca5;
+	line-height: 2;
+	text-decoration: none;
+}	
 
 
 
