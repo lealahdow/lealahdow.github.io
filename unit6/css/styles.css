@@ -1,0 +1,211 @@
+#content1 nav{
+	float: none;
+}
+
+#content1 nav a{
+	background-color: #F4756E;
+	color: white;
+	float: none;
+	border-bottom: solid 3px #BC4000;
+	margin-bottom: 60px;
+}
+
+#content1 nav a:hover{
+	background-color: #ea5a4f;
+}
+
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#content1{
+	margin: 60px 60px 30px 60px;
+	text-align: center;
+}
+
+#content2{
+	background-color: #F9F9F2;
+	text-align: center;
+}
+
+#content2 h2{
+	text-align: left;
+}
+
+.dropcap{
+	float: left;
+	width: .7em;
+	font-size: 60pt;
+	line-height: 83%;
+	color: black;
+}
+
+footer {
+	background-color: #6D6E70;
+	padding: 30px;
+	margin-top: 60px;
+	color: white;
+	clear: both;
+}
+
+footer a{
+	text-decoration: none;
+	color: #2be7dc;
+}
+
+#footerlogo{
+	float: left;
+	padding-right: 40px;
+}
+
+#footernav{
+	float: right;
+	width: 350px;
+	text-align: right;
+	margin-top: 10px;
+}
+
+#footernav a{
+	font-family:'Roboto', sans-serif;
+	font-size: 11pt;
+	color: #2be7dc;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding: 10px;
+}
+
+#footernav a:hover{
+	color: white;
+}
+
+#footertext{
+	display: inline-block;
+}
+
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 45pt;
+	text-transform: uppercase;
+}
+
+h2{
+	font-family: Cortado-Web, Roboto Condensed, sans-serif;
+    font-weight: 400;
+	font-size: 45pt;
+	text-transform: uppercase;
+	text-align: center;
+	color: #F4756E;
+}
+
+
+header {
+	background-color: #2be7dc;
+	text-align: center;
+}
+
+#intro{
+	color: white;
+	width: 400px;
+	padding: 70px 15% 50px 10px;
+	display: inline-block;
+	text-align: left;
+	margin: 0 auto;
+}
+
+#level1nav{
+	text-align: center;
+}
+
+#logo{
+	display: inline-block;
+}
+
+nav {
+	font-family: 'Roboto Condensed', sans-serif;
+	letter-spacing: 2px;
+	font-size: 14pt;
+	text-transform: uppercase;
+	float: right;
+	clear: both;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color: black;
+	margin: 12px 0px 0px 0px;
+	width: 230px;
+	height: 40px;
+	text-align: center;
+	padding-top: 20px;
+	float: right;
+}
+
+nav a:hover{
+	color: white;
+	background-color: #2be7dc;
+	border-bottom: solid 3px #2BAA9D;
+}
+
+p {
+	font-family:'Roboto-light', sans-serif;
+	font-size: 11pt;
+	line-height: 1.8em;
+}
+
+#slideshow{
+	width: 400px;
+	float: left;
+	padding: 50px 10px 50px 15%;
+	margin: 0 auto;
+}
+
+#step1 {
+	width: 25%;
+	display: inline-block;
+	margin: 60px 0px 60px 0px;
+}
+
+#step2 {
+	width: 25%;
+	display: inline-block;
+	margin: 20px;
+}
+
+#step3 {
+	width: 25%;
+	display: inline-block;
+}
+
+strong {
+	font-family:'Roboto', sans-serif;
+}
+
+#top {
+	padding: 20px 10% 20px 10%;
+}
+
+#titlewrap{
+	width: 300px;
+	display: inline-block;
+	text-align: left;
+	margin: 30px;
+}
+
+#video{
+	margin: 60px;
+	width: 420px;
+	display: inline-block;
+}
+
+
+
+
+
+
