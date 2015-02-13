@@ -535,7 +535,7 @@ ul{
 
 	#video{
 		width: 90%;
-		height: 250px;
+		height: auto;
 	}
 }
 
