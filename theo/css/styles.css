@@ -207,4 +207,9 @@ p {
 		margin-left: none;
 	}
 
+	.phone, .email, .pin{
+		display: none;
+	}
+
+
 
